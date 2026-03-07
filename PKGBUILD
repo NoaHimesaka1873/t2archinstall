@@ -1,7 +1,7 @@
 # Maintainer: Noa Himesaka <himesaka AT noa DOT codes>
 pkgname=t2archinstall
 pkgrel=1
-pkgver=r29.f6e55eb
+pkgver=r35.b41407d
 pkgdesc="Arch Linux Installer TUI for Intel Macs with the T2 Security Chip"
 url="https://github.com/slsrepo/t2archinstall"
 arch=('x86_64')
